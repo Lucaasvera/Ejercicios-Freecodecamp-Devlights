@@ -243,3 +243,5 @@ const myArray = ["Lucas", 23];
 //Ejercicio 40 anida un arreglo dentro de otro arrelgo
 
 const myArray0 = ["Lucas", 23, ["Vera", "Developer"]];
+
+//ajustado jeje
